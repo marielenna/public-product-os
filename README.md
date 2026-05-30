@@ -8,7 +8,7 @@ A Claude Code–powered operating system for product managers at EdPlus. Slash c
 
 | Command | What it does |
 |---------|-------------|
-| `/morning-brief` | Daily briefing from email, calendar, meetings, Jira, Coda, and Slack |
+| `/morning-brief` | Daily briefing from Superhuman Mail, Superhuman calendar, meetings, Coda, Jira, and Slack (through Zapier) |
 | `/idea-to-prd` | Turns a raw idea into a project brief, then a full PRD |
 | `/prd-review` | Reviews your PRD through 5 personas (engineer, designer, user, exec, skeptic) |
 | `/prd-to-prototype` | Converts a PRD into a branded interactive HTML prototype |
