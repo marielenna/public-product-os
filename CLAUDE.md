@@ -28,12 +28,9 @@ See `context/team_goals.md` for current priorities.
 
 ## Key Commands
 
-- `/humanize` — Apply writing style to any content
 - `/prd-review` — Multi-perspective PRD review
 - `/idea-to-prd` — Take an idea all the way to a PRD
-- `/standup` — Generate a daily standup update
 - `/morning-brief` — Daily briefing from all connected sources
-- `/sync-meetings` — Pull new meeting notes from Granola, organize by month, auto-commit
 - `/eod-wrapup` — End-of-day summary of open loops and unanswered emails
 - `/prd-to-prototype` — Turn a PRD into an interactive HTML prototype
 
@@ -63,12 +60,6 @@ context/
 └── sprint_status.md    → Active sprint status and blockers
 ```
 
-## Workflows & Automation
-
-- **Meeting notes sync** — `tools/sync-meetings.py`
-  Reads Granola cache, creates markdown files for new meetings, commits and pushes to GitHub.
-  - Run manually: `python3 tools/sync-meetings.py`
-  - Or use the `/sync-meetings` command in Claude Code for on-demand syncs
 
 ## Setup
 
