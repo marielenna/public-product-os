@@ -23,12 +23,18 @@ A Claude Code–powered operating system for product managers at EdPlus. Slash c
 
 ---
 
+## Pre-requisite
+
+- Access to the various systems, including Claude.
+
+---
+
 ## Quick Start
 
 1. **[Clone this repo](https://github.com/marielenna/public-product-os)** into your working directory or copy what you need
 2. **Fill in `CLAUDE.md`** with your role, org context, and working preferences
 3. **Create `context/` files** — see the template in `CLAUDE.md` for what to include
-4. **Run the setup checklist** — `tools/onboarding/setup-checklist.md`
+4. **[Run the setup checklist](https://github.com/marielenna/public-product-os/blob/main/tools/onboarding/setup-checklist.md)** — `tools/onboarding/setup-checklist.md`
 5. **Try a command** — open Claude Code and run `/morning-brief` 
 
 ---
